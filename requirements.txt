@@ -1,0 +1,3 @@
+pandas
+plotly
+neo4j
